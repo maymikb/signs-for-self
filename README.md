@@ -9,7 +9,7 @@ This is an app created with node.js to generate a customized,professional logo b
 - [Installation](#installation)
 - [Screenshot](#screenshot)
 - [Screenshot](#screenshot)
-- [VideoWalkthroughLink](#Video Walkthrough Link)
+- [Video](#Video Walkthrough Link)
 
 
 ## Description
