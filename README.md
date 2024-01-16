@@ -8,7 +8,8 @@ This is an app created with node.js to generate a customized,professional logo b
 - [Description](#description)
 - [Installation](#installation)
 - [Screenshot](#screenshot)
-- [Video Walkthrough Link](#video walkthrough link)
+- [Screenshot](#screenshot)
+- [Video](#Video Walkthrough Link)
 
 
 ## Description
@@ -18,9 +19,9 @@ The motivation for this app was to help with logo making. I want to be able to m
 ## Installation
 <div>Node.js</div>
 <div>Package.JSON</div>
-<div>Inquirer.js (package-lock.json dependency).</div>
+<div>Inquirer package</div>
 <div>Package.</div>
-<div>Jest.</div>
+<div>Jest</div>
 
 
 
