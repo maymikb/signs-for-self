@@ -42,7 +42,10 @@ inquirer.prompt([
 
         const svgCode = mySVG.render();
 
-        fs.writeFile("./examples/logo.svg", svgCode, function () {
-            console.log("logoCreated")
+        let shape = answers.logoShape;
+
+        fs.writeFile(`./examples/${shape}.svg`, svgCode, function () {
+            console.log("Generated logo.svg")
+            console.log(`Logo generated at ${__dirname}/examples/${shape}.svg`);
         })
     })

@@ -8,8 +8,7 @@ This is an app created with node.js to generate a customized,professional logo b
 - [Description](#description)
 - [Installation](#installation)
 - [Screenshot](#screenshot)
-- [Screenshot](#screenshot)
-- [Video](#Video)
+- [Video](#video)
 
 
 ## Description
