@@ -18,9 +18,12 @@ The motivation for this app was to help with logo making. I want to be able to m
 ## Installation
 <div>Node.js</div>
 <div>Package.JSON</div>
-<div>Inquirer package</div>
-<div>Package.</div>
+<div>Package-lock.JSON</div>
+<div>Inquirer Package</div>
 <div>Jest</div>
+
+
+.V.S.CODE
 
 
 
