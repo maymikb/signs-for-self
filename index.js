@@ -30,8 +30,9 @@ inquirer.prompt([
     },
 ])
     .then(answers => {
+        console.log("answers:", answers,"answers.shapeColor",answers.shapeColor)
         
-        const myShape = new Shape(answers.shapeColor)
+        const myShape = new Shape(answers.shapeColor,answers.logoShape)
         const shapeCode = myShape.render();
 
         const myText = new Text(answers.text, answers.textColor);
