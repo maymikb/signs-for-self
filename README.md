@@ -8,7 +8,7 @@ This is an app created with node.js to generate a customized,professional logo b
 ## Table of contents
 - [Description](#description)
 - [Installation](#installation)
-- [Video](#video)
+- [Video walkthrough link](#video)
 
 
 ## Description
@@ -25,7 +25,6 @@ The motivation for this app was to help with logo making. I want to be able to m
 
 
 ## Video Walkthrough Link
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/39807ac7-e726-4020-yf0b-094f6bb64a7f
 
-
+https://drive.google.com/file/d/1LfVQQe2n_Bqv5kq0ZAMmsyB6QYWpjXMi/view
 
